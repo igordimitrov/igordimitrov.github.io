@@ -1,2 +1,2 @@
 # igordimitrov.github.io
-user pag
+user page
